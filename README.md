@@ -38,7 +38,7 @@ This project implements an **agentic AI-powered system** that fetches literary c
 
 ### Clone the github repository
 ```bash
-git clone https://github.com/yourusername/book-pipeline-agents.git
+git clone [https://github.com/yourusername/book-pipeline-agents.git](https://github.com/PratikChrs/Automated-Book-Publication-Workflow.git)
 cd book-pipeline-agents
 ```
 
