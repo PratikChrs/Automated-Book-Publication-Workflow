@@ -54,6 +54,6 @@ GEMINI_API_KEY=your_google_api_key
 ```
 ### 🔧 Run the Full Agentic Pipeline
 ```bash
-python main.py
+python final.py
 ```
 
